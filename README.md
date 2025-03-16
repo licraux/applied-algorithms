@@ -1,1 +1,1 @@
-"# Applied Algorithms" 
+Applied Algorithms - Fall 2023
